@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+
+# Vim
+*.swp
+*.swo
+
+# Node (por si acaso)
+node_modules/
