@@ -2,7 +2,6 @@
 
 > Introducción a Blockchain y Ethereum. Material de clase para principiantes.
 
-**Duración:** 2 h · **Nivel:** principiante · **Pre-requisitos:** ninguno
 
 ---
 
