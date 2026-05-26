@@ -10,7 +10,7 @@ Curso introductorio a Ethereum y Web3 en español. Practicas profesionalizantes 
 |---|------|----------|
 | 1 | Introducción a Blockchain y Ethereum | [clase-1-introduccion/](./clase-1-introduccion/) |
 | 2 | Ethereum en profundidad — EVM, tokens, DeFi | [clase-2-profundidad/](./clase-2-profundidad/) |
-| 3 | Smart contracts con Solidity | *(próximamente)* |
+| 3 | Utilizando Blockchain — casos de uso y ecosistema argentino | [clase-3-utilizando-blockchain/](./clase-3-utilizando-blockchain/) |
 | 4 | Desarrollo con Hardhat / Foundry | *(próximamente)* |
 | 5 | DeFi, DAOs y Layer 2s | *(próximamente)* |
 
